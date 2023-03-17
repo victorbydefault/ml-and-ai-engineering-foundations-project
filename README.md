@@ -1,1 +1,3 @@
-# ml-and-ai-engineering-foundations-project
+# ML and AI Engineering Foundations Project
+By Varinder Guraya
+
